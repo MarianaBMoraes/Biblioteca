@@ -1,4 +1,4 @@
-# Biblioteca
+# Biblioteca Virtual
 
 Este é um simples script em JavaScript para gerenciar uma biblioteca virtual. Com este script, você pode adicionar livros à sua biblioteca, removê-los e listar todos os livros disponíveis. Cada livro pode ser caracterizado por seu nome, autor, tamanho (em páginas) e gênero.
 
